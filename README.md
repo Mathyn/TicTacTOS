@@ -14,7 +14,7 @@ Depending on how you build your Cross-Compiler you may need to edit some build p
 ## Run the OS using QEMU
 In order to run the OS using the virtual machine software QEMU you will first need to install QEMU (http://wiki.qemu.org/Download).
 
-Once you've installed QEMU you can run and build the OS by running the shell script 'run.sh'.
+Once you've installed QEMU you can build and run the OS by running the shell script 'run.sh'.
 
 
 
